@@ -1,3 +1,3 @@
-module github.com/pragmader/x509bf
+module github.com/rdner/x509bf
 
 go 1.13

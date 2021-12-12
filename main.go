@@ -11,7 +11,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/pragmader/x509bf/bf"
+	"github.com/rdner/x509bf/bf"
 )
 
 func main() {
